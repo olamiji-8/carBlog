@@ -1,6 +1,6 @@
 const blog = [
     {
-      id: 1,
+      id: "0f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
       title: "Classic Revival: Revisiting Iconic Cars Through Modern Reviews",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.",
       date: "Jan 10, 2024",
@@ -11,7 +11,7 @@ const blog = [
   
     },
     {
-        id: 2,
+        id: "1f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
         title: "Reviewing Cars with the Best Resale Value",
         description: "Lorem ipsum dolor sit amet consectetur. Consectetur risus quis diam hendrerit. Interdum mattis in sed diam egestas metus at duis commodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet. ommodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet.",
         date: "Jan 10, 2024",
@@ -21,7 +21,7 @@ const blog = [
         link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-xiv/",
       },
       {
-        id: 3,
+        id: "2f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
         title: "A Review of Cars with Advanced Infotainment Systems",
         description: "Lorem ipsum dolor sit amet consectetur. Consectetur risus quis diam hendrerit. Interdum mattis in sed diam egestas metus at duis commodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet. ommodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet.",
         date: "Jan 10, 2024",
@@ -31,7 +31,7 @@ const blog = [
         link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-iii/"
       },
       {
-        id: 4,
+        id: "3f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
         title: "A Deep Dive into Sports Cars",
         description: "Lorem ipsum dolor sit amet consectetur. Consectetur risus quis diam hendrerit. Interdum mattis in sed diam egestas metus at duis commodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet. ommodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet.",
         date: "Jan 10, 2024",
@@ -41,7 +41,7 @@ const blog = [
         link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-iii/"
       },
       {
-        id: 5,
+        id: "4f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
         title: "A Review of Cars with Advanced Infotainment Systems",
         description: "Lorem ipsum dolor sit amet consectetur. Consectetur risus quis diam hendrerit. Interdum mattis in sed diam egestas metus at duis commodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet. ommodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet.",
         date: "Jan 10, 2024",
@@ -51,7 +51,7 @@ const blog = [
         link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-iii/"
       },
       {
-        id: 6,
+        id: "5f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
         title: "Reviewing Cars with the Best Resale Value",
         description: "Lorem ipsum dolor sit amet consectetur. Consectetur risus quis diam hendrerit. Interdum mattis in sed diam egestas metus at duis commodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet. ommodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet.",
         date: "Jan 10, 2024",
@@ -61,7 +61,7 @@ const blog = [
         link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-iii/"
       },
       {
-        id: 7,
+        id: "6f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
         title: "Reviewing Cars with the Best Resale Value",
         description: "Lorem ipsum dolor sit amet consectetur. Consectetur risus quis diam hendrerit. Interdum mattis in sed diam egestas metus at duis commodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet. ommodo. Cursus quis cursus dignissim egestas sollicitudin tristique quis. Orci neque quis porttitor eu amet.",
         date: "Jan 10, 2024",
