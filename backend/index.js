@@ -4,7 +4,7 @@ const dotenv = require("dotenv").config();
 const cors = require('cors');
 const dbConnect = require("./config/dbConnect")
 const PORT = process.env.PORT || 4000
-// const Router = require("./routes/authRoute")
+ const Router = require("./routes/blogRoute")
 
 
 
@@ -19,4 +19,4 @@ app.listen(PORT, ()=>{
     console.log(`Server is running on port ${PORT}`);
 })
 
-// app.use('/', Router);
+ app.use('/', Router);

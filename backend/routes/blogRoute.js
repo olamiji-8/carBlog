@@ -1,7 +1,10 @@
 const  Router  = require("express");
-const blogController = require("../controller/blogController");
+const blogController = require("../controllers/blogController");
+const router = Router();
 
-router.get("/")
+
+router.get('/posts', blogController.getAllPosts);
+router.get('/posts/:uuid', blogController.getPostByUuid);
 
 
 module.exports = router;
