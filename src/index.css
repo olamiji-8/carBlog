@@ -9,7 +9,30 @@
 @layer base{
     html{
         font-family: "Poppins", sans-serif;
+        overflow-x: hidden;
       
     }
+    .group{
+        background-image: ;
+    }
+    .scroll-container {
+        overflow-x: auto;
+        border-bottom: 1px solid #FF5959; /* Red border */
+      }
+      
+      .scroll-container::-webkit-scrollbar {
+        width: 10px; /* Width of the scrollbar */
+      }
+      
+      .scroll-container::-webkit-scrollbar-thumb {
+        background-color: #FF5959; /* Red color for the thumb */
+        border-radius: 5px; /* Rounded corners */
+      }
+      @media screen and (max-width: 768px) {
+        .scroll-container {
+          width: 100%; /* Full width for small screens */
+        }
+      }
+      
     
   }

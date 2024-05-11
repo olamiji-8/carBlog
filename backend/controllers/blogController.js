@@ -1,6 +1,6 @@
 const blogData = require('../config/blog');
 const blogPost = require("../config/blogPost");
-const categoryPost = require("../config/category")
+const categoryPost = require("../config/category");
 
 const getAllPosts = (req, res) => {
     res.json(blogData);

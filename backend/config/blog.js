@@ -6,8 +6,6 @@ const blog = [
       date: "Jan 10, 2024",
       profileName:"Dasteen",
       image:"https://res.cloudinary.com/dxd1j0yzt/image/upload/v1714710699/blog/1_ogbzwf.png",
-      next: "Read Article",
-      link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-xv/",
   
     },
     {
@@ -17,8 +15,7 @@ const blog = [
         date: "Jan 10, 2024",
         profileName:"Dasteen",
         image:"https://res.cloudinary.com/dxd1j0yzt/image/upload/v1714710697/blog/2_s3pkyd.png",
-        next: "Read Article",
-        link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-xiv/",
+        
       },
       {
         id: "2f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
@@ -27,8 +24,7 @@ const blog = [
         date: "Jan 10, 2024",
         profileName:"Dasteen",
         image:"https://res.cloudinary.com/dxd1j0yzt/image/upload/v1714710695/blog/3_rorzox.png",
-        next: "Read Article",
-        link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-iii/"
+      
       },
       {
         id: "3f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
@@ -37,8 +33,6 @@ const blog = [
         date: "Jan 10, 2024",
         profileName:"Dasteen",
         image:"https://res.cloudinary.com/dxd1j0yzt/image/upload/v1714710696/blog/4_aenbk2.png",
-        next: "Read Article",
-        link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-iii/"
       },
       {
         id: "4f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
@@ -47,8 +41,7 @@ const blog = [
         date: "Jan 10, 2024",
         profileName:"Dasteen",
         image:"https://res.cloudinary.com/dxd1j0yzt/image/upload/v1714710695/blog/5_dntgzk.png",
-        next: "Read Article",
-        link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-iii/"
+       
       },
       {
         id: "5f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
@@ -57,8 +50,7 @@ const blog = [
         date: "Jan 10, 2024",
         profileName:"Dasteen",
         image:"https://res.cloudinary.com/dxd1j0yzt/image/upload/v1714710693/blog/6_n6aos4.png",
-        next: "Read Article",
-        link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-iii/"
+  
       },
       {
         id: "6f82d8c7-b0af-41b6-8b2e-e7e2e303858b",
@@ -67,8 +59,7 @@ const blog = [
         date: "Jan 10, 2024",
         profileName:"Dasteen",
         image:"https://res.cloudinary.com/dxd1j0yzt/image/upload/v1714710695/blog/7_bjydpr.png",
-        next: "Read Article",
-        link: "https://blogs.kukeat.com/food-topics-are-tricky-how-to-choose-and-work-on-them-iii/"
+        
       }
 ]
 
