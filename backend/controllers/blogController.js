@@ -1,3 +1,4 @@
+// blogController.js
 const blogData = require('../config/blog');
 const blogPost = require("../config/blogPost");
 const categoryPost = require("../config/category");
