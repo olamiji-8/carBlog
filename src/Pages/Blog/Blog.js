@@ -25,8 +25,7 @@ const Blog = () => {
                 <p className="text-gray-400 text-sm mb-4">{post.date} by {post.profileName}</p>
                 <p className="text-gray-400 mb-4">{post.description.substring(0, 150)}...</p>
               </div>
-              <Link to={`/post/${post.id}`} className="text-red-500 hover:underline">Read Full Article</Link>
-
+              <Link to={`/posts/${post.id}`} className="text-red-500 hover:underline">Read Full Article</Link>
             </div>
           </div>
         ))}
